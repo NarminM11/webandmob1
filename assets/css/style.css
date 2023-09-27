@@ -1,0 +1,39 @@
+body{
+    background-color:bisque ;
+}
+hr {
+  width:60%;
+height:2px;
+}
+
+h2{
+    color:brown;
+}
+
+h4{
+    color: green;
+}
+
+p{
+    color:blueviolet;
+}
+/* 
+#email{
+    color:chocolate;
+}
+
+#phone{
+    color:cadetblue;
+}
+
+#address{
+    color:darkgreen;
+} */
+
+.info{
+    color:crimson;
+}
+
+ul.languages>li{
+    list-style-type: none;
+}
